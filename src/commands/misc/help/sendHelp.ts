@@ -58,7 +58,7 @@ module.exports = {
             Embed.addFields({ name: '\u200B', value: '\u200B' },)
             Embed.addFields(
                 {
-                    name: `written in typescript `, value: `Help us by contributing the project on [github](https://github.com/anuj-weebjs/osBot) *pwease~*`
+                    name: `written in typescript `, value: `Help us by contributing the project on [github](https://github.com/cores-basement/osBot) *pwease~*`
                 }
             )
 
