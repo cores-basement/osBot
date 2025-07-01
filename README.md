@@ -12,9 +12,23 @@
 - Create a file named `.env` Then copy the content of `example.env` And Fill it.
 - It will look something like Following
 ```env
-TOKEN=DISCORD-BOT-TOKEN-HERE
-MONGO_DB_CONNECTION_STRING=CONNECTION-STRING-HERE
-PORT=ANY-PORT-AS-YOU-LIKE
+TOKEN=
+MONGO_DB_CONNECTION_STRING=
+PORT=
+PREFIX=
+ACTIVITY_NAME=
+ACTIVITY_STATUS=
+CLIENT_ID=
+DEV_ID=
+DEV_GUILD_ID=
+JOIN_LOG_CHANNEL_ID=
+LEAVE_LOG_CHANNEL_ID=
+COMMAND_EXECUTION_LOG_CHANNEL_ID=
+CRASH_LOG_CHANNEL_ID=
+ERROR_LOG_CHANNEL_ID=
+PRIMARY_EMBED_COLOR=
+INVISIBLE_EMBED_COLOR=
+ALERT_EMBED_COLOR=
 ``` 
 - <b>NOTE: </b>You need a enable Server Members Intent & Message Content Intent in order to bot work!
 - Now open terminal in osBot folder and type following commands To install Dependencies and Make a Build.
